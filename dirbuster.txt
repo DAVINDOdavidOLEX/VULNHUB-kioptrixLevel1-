@@ -1,0 +1,43 @@
+Starting OWASP DirBuster 1.0-RC1
+Starting dir/file list based brute forcing
+File found: /index.html - 200
+Dir found: / - 200
+Dir found: /cgi-bin/ - 403
+Dir found: /manual/ - 200
+Dir found: /manual/mod/ - 200
+Dir found: /icons/ - 200
+Dir found: /doc/ - 403
+File found: /test.php - 200
+Dir found: /icons/small/ - 200
+Dir found: /usage/ - 200
+File found: /usage/index.html - 200
+File found: /usage/usage_200909.html - 200
+File found: /icons/small/README.txt - 200
+Dir found: /mrtg/ - 200
+File found: /mrtg/index.html - 200
+File found: /mrtg/mrtg.html - 200
+File found: /mrtg/unix-guide.html - 200
+File found: /mrtg/nt-guide.html - 200
+File found: /mrtg/cfgmaker.html - 200
+File found: /mrtg/indexmaker.html - 200
+File found: /mrtg/reference.html - 200
+File found: /mrtg/faq.html - 200
+File found: /mrtg/forum.html - 200
+File found: /mrtg/contrib.html - 200
+File found: /mrtg/mrtg-rrd.html - 200
+File found: /mrtg/logfile.html - 200
+File found: /mrtg/mibhelp.html - 200
+File found: /mrtg/squid.html - 200
+File found: /mrtg/webserver.html - 200
+File found: /manual/mod/mod_perl.html - 200
+Dir found: /manual/mod/mod_perl/ - 200
+Dir found: /manual/mod/mod_ssl/ - 200
+File found: /manual/mod/mod_ssl/index.html - 200
+File found: /manual/mod/mod_ssl/ssl_overview.html - 200
+File found: /manual/mod/mod_ssl/ssl_intro.html - 200
+File found: /manual/mod/mod_ssl/ssl_reference.html - 200
+File found: /manual/mod/mod_ssl/ssl_compat.html - 200
+File found: /manual/mod/mod_ssl/ssl_howto.html - 200
+File found: /manual/mod/mod_ssl/ssl_faq.html - 200
+File found: /manual/mod/mod_ssl/ssl_glossary.html - 200
+DirBuster Stopped

