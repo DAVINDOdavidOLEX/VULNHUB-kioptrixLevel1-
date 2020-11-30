@@ -7,6 +7,14 @@ kioptrix Level 1 beginner level
 ..................................................................
 As always we start by doing ENUMERATION of Machines
 .........
+First we have to find up address of machines
+  you can simply type type netdiscover -r #YouripAddress#
+    YouripAddress can be found for sudo ifconfig
+After using netdiscover,target's ip from My Environment is 192.168.221.130
+
+#############Key to remember################
+You have to find your target's ip address from your environments 
+###################
 
 nmap -sC -sV --script vuln -oN NMAP.txt 192.168.221.130
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/NMAP.txt
