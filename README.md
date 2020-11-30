@@ -7,6 +7,9 @@ As always we start by doing ENUMERATION of Machines
 .........
 nmap -sC -sV --script vuln -oN NMAP.txt 192.168.221.130
 
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/NMAP.txt
+
+
 nikto -h 192.168.221.130 2>/dev/null |tee nikto.txt
 
 
