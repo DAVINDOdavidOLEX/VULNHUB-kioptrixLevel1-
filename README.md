@@ -24,7 +24,9 @@ gobuster dir -u http://192.168.221.130 -w /usr/share/wordlists/dirb/common.txt 2
 
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/gobuster.txt
 
-gobuster dir -u http://192.168.221.130 -w /usr/share/wordlists/dirbuster/directory-2.3-medium.txt 2>/dev/null |tee gobuster1.txt
+gobuster dir -u http://192.168.221.130 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt 2>/dev/null |tee gobuster1.txt
+
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/gobuster1.txt
 
 FINAL DOCUMENT FROM ENUMERATION 
 
