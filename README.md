@@ -73,8 +73,9 @@ in this stage we test what we research if we fail we have to repeat to research 
  
   From our research we have 2 exploitation 
 First that it bring success is through samba 2.2.1a vulnerabilities in which it is exploited through the use of msfconsole as searchsploit, it shows(extension. rb)
-      
+      first I try to run it fails since it was staged payload then I try unstated payload it works
 
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/msfconsole.txt
 
 
 Other exploitation, it seems you have to setup some few things 
