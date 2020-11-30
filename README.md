@@ -32,7 +32,7 @@ enum4linux -a 192.168.221.130
 
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/enum4linuxENUMERATErpcANDsmbANDnmbANDnet.txt
 
-FINAL DOCUMENT FROM ENUMERATION 
+FINAL DOCUMENT FOR ENUMERATION 
 
 
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/Enumeration.txt
