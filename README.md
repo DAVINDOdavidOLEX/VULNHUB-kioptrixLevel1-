@@ -12,6 +12,7 @@ https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/NMAP.txt
 
 nikto -h 192.168.221.130 2>/dev/null |tee nikto.txt
 
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/nikto.txt
 
 dirbuster 2>/dev/null |tee dirbuster.txt
 
