@@ -37,9 +37,11 @@ FINAL DOCUMENT FROM ENUMERATION
 
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/Enumeration.txt
 
-.................
+
+
 RESEARCH FOR VULNERABILITIES 
-.................
+
+
 
 This research can be done in two ways which are offline and online research 
            OFFLINE RESEARCH 
@@ -49,9 +51,7 @@ Here a tool called searchsploit become useful
 From my directory 
     searchsploit 
 
-
-    searchsploit 
-
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/ResearchVULNERABILITY.txt
 
 Other versions of this ip address(192.168.221.130) seem not interested 
 
@@ -61,7 +61,13 @@ I didn't use this but here you can just Google your version of service for vulne
            Others are cve(https://cve.mitre.org/) and so on.
 
 
+
+
 EXPLOITATION STAGE
+
+
+
+
 
 in this stage we test what we research if we fail we have to repeat to research or even to repeat/look deep into this ENUMERATION or loo
  
