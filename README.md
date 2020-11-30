@@ -28,8 +28,14 @@ gobuster dir -u http://192.168.221.130 -w /usr/share/wordlists/dirbuster/directo
 
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/gobuster1.txt
 
+enum4linux -a 192.168.221.130
+
+
+
 FINAL DOCUMENT FROM ENUMERATION 
 
+
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/Enumeration.txt
 
 RESEARCH FOR VULNERABILITIES 
 
