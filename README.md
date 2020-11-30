@@ -76,6 +76,8 @@ First that it bring success is through samba 2.2.1a vulnerabilities in which it 
       first I try to run it fails since it was staged payload then I try unstaged payload it works
 
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/msfconsole.txt
+    
+       !Boom,I have root access that means that I don't have to do privilege escalation 
 
 
 Other exploitation, it seems you have to setup some few things 
