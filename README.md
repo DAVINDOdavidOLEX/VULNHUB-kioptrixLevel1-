@@ -30,14 +30,16 @@ https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/gobuster1.
 
 enum4linux -a 192.168.221.130
 
-
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/enum4linuxENUMERATErpcANDsmbANDnmbANDnet.txt
 
 FINAL DOCUMENT FROM ENUMERATION 
 
 
 https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/Enumeration.txt
 
+.................
 RESEARCH FOR VULNERABILITIES 
+.................
 
 This research can be done in two ways which are offline and online research 
            OFFLINE RESEARCH 
