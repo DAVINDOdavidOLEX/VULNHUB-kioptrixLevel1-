@@ -72,7 +72,7 @@ I didn't use this but here you can just Google your version of service for vulne
 
 
 EXPLOITATION STAGE
-in this stage we test what we research if we fail we have to repeat to research or even to repeat/look deep into this ENUMERATION or loo
+in this stage we test what we research if we fail we have to repeat to research or even to repeat/look deep into this ENUMERATION 
  
   From our research we have 2 exploitation 
 First that it bring success is through samba 2.2.1a vulnerabilities in which it is exploited through the use of msfconsole as searchsploit, it shows(extension. rb)
