@@ -80,7 +80,9 @@ https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/msfconsole
 
 Other exploitation, it seems you have to setup some few things 
 
-
+   Look for thos website so that you can edit 764.c
+   
+https://github.com/DAVINDOdavidOLEX/VULNHUB-kioptrixLevel1-/blob/main/Exp764.txt
 
 
 
